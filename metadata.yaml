@@ -1,0 +1,29 @@
+_repo: Victorious-failure_68432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: https://en.wikipedia.org/wiki/Bryce_Walton
+description: ''
+gutenberg_issued: '2022-06-30'
+identifiers:
+  gutenberg: '68432'
+language: en
+pgterms:marc905: 20220514053229walton
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Standard Magazines, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Victorious failure
+url: http://www.gutenberg.org/ebooks/68432
